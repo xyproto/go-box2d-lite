@@ -6,7 +6,7 @@ import (
 	"math/rand"
 	"runtime"
 
-	b2d "github.com/neguse/go-box2d-lite/box2dlite"
+	b2d "github.com/xyproto/go-box2d-lite/box2dlite"
 	"github.com/veandco/go-sdl2/sdl"
 )
 
